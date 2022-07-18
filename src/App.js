@@ -3,6 +3,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 import MovieList from './components/MovieList';
 import SearchBox from './components/SearchBox';
+import autoprefixer from 'autoprefixer'
 
 const API_KEY = "3998006b";
 
